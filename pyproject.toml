@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "package_test"
+version = "0.0.1"
+dependencies = []
+requires-python = ">=3.13.5"
+authors = [
+    {name = "Hano Sura", email = "hano1705@gmail.com"},
+]
+readme = "README.md"
